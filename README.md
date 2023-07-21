@@ -24,3 +24,19 @@ The MuckRock FOIA Cost Calculator is a Python script that allows users to calcul
 
 ```bash
 pip install requests
+
+1.Open the muckrock_foia_cost_calculator.py file in a text editor.
+
+2.Look for the comment # ChangeMe in the code. Replace 'TheJ' with the MuckRock username for which you want to calculate the total cost spent on FOIA requests. Save the file after making the change.
+
+3.Run the script: python muckrock_foia_cost_calculator.py
+
+The script will display the total cost in USD spent on FOIA requests for the specified user.
+
+
+License
+This project is licensed under the GNU General Public License (GPL) version 3.0.
+
+Acknowledgments
+This script was developed as part of a personal project to analyze FOIA-related expenses on the MuckRock platform.
+The MuckRock API is used to access FOIA request data. Please ensure you comply with their API usage policies.
