@@ -1,7 +1,7 @@
 # MuckRock FOIA Cost Calculator
 
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-GPL%203.0-green.svg)
 
 ## Description
 
